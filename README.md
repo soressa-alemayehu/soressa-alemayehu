@@ -4,12 +4,14 @@ I'm a **Computer Science** major passionate about **Artificial Intelligence** an
 
 ### 🛠️ Tech Stack
 - **AI & Machine Learning**: Python, TensorFlow, Scikit-Learn
-- **Web Development**: React, Django, HTML, CSS, JavaScript
+- **Web Development**: React, Node.js, Django, HTML, CSS, JavaScript
+- **Mobile App Development**: Flutter
 - **Databases**: PostgreSQL, SQLite
 - **Version Control**: Git, GitHub
 
 ### 🚀 What I'm Up To
-- Developing awesome **web applications** using **React** and **Django**
+- Developing awesome **web applications** using **React** and **Node.js**
+- Creating mobile apps with **Flutter**
 - Building my own **Machine Learning** projects
 - Constantly learning and exploring cutting-edge AI technologies
 
