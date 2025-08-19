@@ -1,6 +1,4 @@
 # Hi there, I'm Soressa! 👋
-## 📊 GitHub Stats  
-
 I'm a **UI/UX Designer & Front-End Developer** Major in CS, passionate about creating digital experiences that are simple, functional, and human-centered.
 
 I help businesses and teams turn ideas into clean, responsive, and user-focused products — from design concepts to fully coded websites. My goal is always to keep things clear, functional, and impactful.
@@ -19,7 +17,7 @@ I help businesses and teams turn ideas into clean, responsive, and user-focused 
 ⚡ Smart Workflows → using AI + modern tools to save time and boost creativity.
 
 ### 🎯 Fun Facts
-- I enjoy a good game of **chess** let me know if you'd like to play! ♟️
+- I enjoy a good game of **chess** ,let me know if you'd like to play! ♟️
 
 ## 📊 GitHub Stats  
 
@@ -45,6 +43,5 @@ I help businesses and teams turn ideas into clean, responsive, and user-focused 
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>  
-
 ✨ Open to **freelance projects, collaborations, or full-time opportunities** — let’s build something impactful together!
 
