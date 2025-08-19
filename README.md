@@ -17,7 +17,7 @@ I help businesses and teams turn ideas into clean, responsive, and user-focused 
 ⚡ Smart Workflows → using AI + modern tools to save time and boost creativity.
 
 ### 🎯 Fun Facts
-- I enjoy a good game of **chess** ,let me know if you'd like to play! ♟️
+- I enjoy a good game of **chess**, let me know if you'd like to play!♟️
 
 ## 📊 GitHub Stats  
 
@@ -42,6 +42,6 @@ I help businesses and teams turn ideas into clean, responsive, and user-focused 
   <a href="https://soressa-alemayehu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-</p>  
-✨ Open to **freelance projects, collaborations, or full-time opportunities** — let’s build something impactful together!
+</p> 
+✨ Open to freelance projects, collaborations, or full-time opportunities — let’s build something impactful together!
 
