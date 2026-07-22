@@ -17,17 +17,6 @@ I help businesses and teams turn ideas into clean, responsive, and user-focused 
 ### 🎯 Fun Facts
 - I enjoy a good game of **chess**, let me know if you'd like to play!♟️
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soressa-alemayehu&show_icons=true&theme=tokyonight" alt="Soressa's GitHub stats" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soressa-alemayehu&layout=compact&theme=tokyonight" alt="Top Languages" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=soressa-alemayehu&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ## 📬 Let’s Connect  
 
 <p align="center">
